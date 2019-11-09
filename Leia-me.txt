@@ -1,4 +1,0 @@
-1- Nesse projeto eu queria que na opção de consulta fosse possível exrcutar a soma dos orçamentos e exibir na opção total.
-2 - E que fosse posssível também exibir o total de acordo com a da data cadastrada.
-
-OBS.: tentei fazer algumas funções mas não deu certo, não exibe.
